@@ -1,5 +1,5 @@
 module.exports = grammar({
-  name: "SlidingUniversalScore",
+  name: "sus",
 
   rules: {
     source_file: ($) => repeat($._line),
