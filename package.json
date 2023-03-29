@@ -21,9 +21,7 @@
       "file-types": [
         "sus"
       ],
-      "highlights": [
-        "highlight.scm"
-      ]
+      "highlights": "queries/sus/highlights.scm"
     }
   ]
 }
